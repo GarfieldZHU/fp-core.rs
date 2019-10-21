@@ -2,10 +2,12 @@
 
 [![Build Status](https://dev.azure.com/jasonShin91/functional-programming-jargon.rs/_apis/build/status/JasonShin.functional-programming-jargon.rs?branchName=master)](https://dev.azure.com/jasonShin91/functional-programming-jargon.rs/_build/latest?definitionId=3&branchName=master)
 
-The project is a library for functional programming in Rust.
+本项目是一个用于解释Rust中的函数式编程的库及其文档。 
+- 作者: [JasonShin](https://github.com/JasonShin)
+- 中文翻译: [GarfieldZHU](https://github.com/GarfieldZHU)
 
 * [fp-core.rs](#fp-corers)
-    * [installation](#installation)
+    * [安装说明](#安装说明)
 * [functional programming jargon in rust](#functional-programming-jargon-in-rust)
 
 # fp-core.rs
@@ -15,7 +17,7 @@ A library for functional programming in Rust.
 It contains purely functional data structures to supplement the functional programming needs alongside
 with the Rust Standard Library.
 
-## Installation 
+## 安装说明 
 
 Add below line to your Cargo.toml
 
