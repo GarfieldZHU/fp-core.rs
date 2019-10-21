@@ -2,7 +2,7 @@
 
 [![Build Status](https://dev.azure.com/jasonShin91/functional-programming-jargon.rs/_apis/build/status/JasonShin.functional-programming-jargon.rs?branchName=master)](https://dev.azure.com/jasonShin91/functional-programming-jargon.rs/_build/latest?definitionId=3&branchName=master)
 
-本项目是一个用于解释Rust中的函数式编程的库及其文档。 
+本项目是一个用于Rust中的函数式编程库及其文档。 
 - 作者: [JasonShin](https://github.com/JasonShin)
 - 中文翻译: [GarfieldZHU](https://github.com/GarfieldZHU)
 
@@ -12,7 +12,7 @@
 
 # fp-core.rs
 
-这是一个用于Rust的函数式编程的示例库。
+这是一个用于Rust的函数式编程的库。
 
 包含了Rust标准库之外，函数式编程所需要的纯函数的数据结构。
 
