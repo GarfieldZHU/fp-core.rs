@@ -12,10 +12,10 @@
 
 # fp-core.rs
 
-A library for functional programming in Rust.
+这是一个用于Rust的函数式编程的示例库。
 
-It contains purely functional data structures to supplement the functional programming needs alongside
-with the Rust Standard Library.
+包含了Rust标准库之外，函数式编程所需要的纯函数的数据结构。
+
 
 ## 安装说明 
 
